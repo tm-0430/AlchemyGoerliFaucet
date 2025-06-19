@@ -1,0 +1,2 @@
+# AlchemyGoerliFaucet
+ETH Goerli
